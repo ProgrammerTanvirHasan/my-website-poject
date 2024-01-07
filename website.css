@@ -1,0 +1,62 @@
+#tanvir{
+    color: brown;
+}
+*{
+    background-color: black;
+    color: white;
+    margin: 10px;
+}
+nav{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+.baton{
+    background-color: brown;
+}
+.first{
+    display: block;
+}
+.second{
+    width: 50%;
+}
+/* nav complate/////// main start */
+.four{
+    display: flex;
+   justify-content: space-between;
+}
+.third{
+    margin: 200px;
+border: 2px solid white;
+padding: 20px;
+
+}
+.about{
+    text-align: center;
+}
+.five{
+    margin: 200px;
+    
+}
+.seven{
+    display: flex;
+    margin: 60px;
+}
+.eight{
+    display: flex;
+    margin: 70px;
+      }
+.cv{
+    text-align:center;
+    background-color: brown;
+    padding: 5px;
+   }
+/* footer start //////////////////////////////*/
+.eleven{
+    display: flex;
+     margin: 70px;
+    justify-content: space-around;
+}
+.sixteen{
+  width: 400px;
+}
